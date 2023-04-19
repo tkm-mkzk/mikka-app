@@ -77,3 +77,4 @@
 2023/04/19 09:34:37 [notice] 1#1: start worker process 29
 2023/04/19 09:34:37 [notice] 1#1: start worker process 30
 2023/04/19 09:34:37 [notice] 1#1: start worker process 31
+2023/04/19 18:15:06 [error] 29#29: *331 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.19.0.1, server: localhost, request: "GET /_next/webpack-hmr HTTP/1.1", upstream: "http://172.19.0.4:3000/_next/webpack-hmr", host: "localhost"
