@@ -1,5 +1,5 @@
 # misc
 .DS_Store
 
-access.log
-error.log
+# log
+*.log
